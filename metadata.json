@@ -1,0 +1,6 @@
+{
+  "name": "Smart Drive Organizer",
+  "description": "Intelligently sort your loose files into categories using AI and output a PowerShell script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
